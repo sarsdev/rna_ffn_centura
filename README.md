@@ -6,7 +6,7 @@ No projeto foram construidas as classes necessárias com as funcionalidades de o
 
 ### Inspiração
 
-O desafio de fazer uma rede neural artificial, tema do qual sabia e ainda sei pouco, usando uma linguagem que nitidamente não tem essa finalidade, e nem sei dizer se algum dia terá pretensão de ter, pareceu ser uma inspiração (leia sofrimento) o bastante para manter minha mente focada e melhorar minhas habilidades de encontrar alternativas técnicas para contornas as limitações que surgissem. E não foram poucas que surgiram hahaha
+O desafio de fazer uma rede neural artificial, tema que sei pouco, usando uma linguagem que nitidamente não tem essa finalidade, e nem sei dizer se algum dia terá pretensão de ter, pareceu ser uma inspiração (leia sofrimento) o bastante para manter minha mente focada e melhorar minhas habilidades de encontrar alternativas técnicas para contornar as limitações que surgissem. E não foram poucas que surgiram hahaha
 
 Além de deixar todos os devidos créditos pela ideia e sua construção usando JavaScript ao José Bezerra, os vídeos dele no YouTube foram uma grande motivação para mim mostrando uma luz no final do tunel neste estudo.
 Seguem abaixo os links dele:
